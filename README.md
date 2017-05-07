@@ -1,3 +1,3 @@
 # FizzBuzz
 
-Para o teste, foi utilizado [QUnit] (https://qunitjs.com/).
+Para o teste, foi utilizado [QUnit](https://qunitjs.com/).
